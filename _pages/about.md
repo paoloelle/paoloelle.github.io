@@ -2,7 +2,7 @@
 layout: About
 title: About
 permalink: /
-subtitle: <a href='https://www.exc.uni-konstanz.de/collective-behaviour/'>CASCB</a>. Address. Contacts. Motto. Etc.
+subtitle: <></a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
