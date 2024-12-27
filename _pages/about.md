@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.uni-konstanz.de'>University of Konstanz</a> & <a href='https://www.exc.uni-konstanz.de/collective-behaviour/'>Center for the Advanced Study of Collective Behaviour
 
 profile:
   align: right
