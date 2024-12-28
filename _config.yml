@@ -351,6 +351,7 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+    - https://www.unipg.it/
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
