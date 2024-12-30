@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+![Alt text per l'immagine](assets/img/9.jpg)
