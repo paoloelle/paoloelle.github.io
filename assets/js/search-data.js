@@ -375,8 +375,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-",
-          title: '',
+    },{id: "news-testo-di-prova-per-un-annuncio-a-simple-elegant-caption-looks-good-between-image-rows-after-each-row-or-doesn-39-t-have-to-be-there-at-all",
+          title: 'Testo di prova per un annuncio A simple, elegant caption looks good between...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
