@@ -375,23 +375,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+    },{id: "news-i-started-my-phd-at-the-university-of-konstanz-and-center-for-the-advanced-study-of-collective-behaviour-my-research-focuses-on-division-of-labor-and-task-allocation-in-robot-swarms",
+          title: 'I started my PhD at the University of Konstanz and Center for the...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-started-my-phd-at-the-university-of-konstanz",
-          title: 'I started my PhD at the University of Konstanz',
-          description: "",
-          section: "News",},{id: "news-long-announcmnent",
-          title: 'long announcmnent',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/prova/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
