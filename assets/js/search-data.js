@@ -375,16 +375,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-testo-di-prova-per-un-annuncio-a-simple-elegant-caption-looks-good-between-image-rows-after-each-row-or-doesn-39-t-have-to-be-there-at-all",
-          title: 'Testo di prova per un annuncio A simple, elegant caption looks good between...',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-started-my-phd-at-the-university-of-konstanz",
+          title: 'I started my PhD at the University of Konstanz',
           description: "",
           section: "News",},{id: "news-long-announcmnent",
           title: 'long announcmnent',
