@@ -458,13 +458,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/paolo-leopardi-59941921b", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/PaoloLeopardi23", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
