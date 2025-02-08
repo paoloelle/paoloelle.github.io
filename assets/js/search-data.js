@@ -430,18 +430,18 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/paololeopardi.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%70%61%6F%6C%6F-%6C%65%6F%70%61%72%64%69@%75%6E%69-%6B%6F%6E%73%74%61%6E%7A.%64%65", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/paololeopardi.bsky.social", "_blank");
         },
       },{
         id: 'social-github',
