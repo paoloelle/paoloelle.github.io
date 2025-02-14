@@ -3,14 +3,15 @@
 # the socials will be displayed in the order they are defined here
 
 email: paolo-leopardi@uni-konstanz.de # your email address
+bluesky_url: https://bsky.app/profile/paololeopardi.bsky.social # your bluesky URL
+linkedin_username: paolo-leopardi-59941921b # your LinkedIn user name
+github_username: paoloelle # your GitHub user name
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
-bluesky_url: https://bsky.app/profile/paololeopardi.bsky.social # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: paoloelle # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
@@ -20,11 +21,10 @@ github_username: paoloelle # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: paolo-leopardi-59941921b # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
-# osf_id: # your OSF ID
+# osf_id: # your OSF ID`  
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
