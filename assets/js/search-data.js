@@ -375,14 +375,17 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-started-my-phd-at-the-university-of-konstanz-and-center-for-the-advanced-study-of-collective-behaviour-my-research-focuses-on-division-of-labor-and-task-allocation-in-robot-swarms",
-          title: 'I started my PhD at the University of Konstanz and Center for the...',
+    },{id: "news-starting-my-phd-at-the-university-of-konstanz-and-center-for-the-advanced-study-of-collective-behaviour-my-research-focuses-on-division-of-labor-and-task-allocation-in-robot-swarms",
+          title: 'Starting my PhD at the University of Konstanz and Center for the Advanced...',
           description: "",
-          section: "News",},{id: "news-i-attended-the-2024-ieee-ras-summer-school-on-multi-robot-systems-from-july-29th-to-august-3rd-2024-in-the-beautiful-city-of-prague-i-had-the-opportunity-to-connect-with-many-colleagues-doing-research-in-multi-robot-systems",
-          title: 'I attended the 2024 IEEE RAS Summer School on Multi-Robot Systems from July...',
+          section: "News",},{id: "news-attending-the-2024-ieee-ras-summer-school-on-multi-robot-systems-from-july-29th-to-august-3rd-2024-in-the-beautiful-city-of-prague-i-had-the-opportunity-to-connect-with-many-colleagues-doing-research-in-multi-robot-systems",
+          title: 'Attending the 2024 IEEE RAS Summer School on Multi-Robot Systems from July 29th...',
           description: "",
-          section: "News",},{id: "news-i-had-the-chance-to-attend-ants-2024-the-fourteenth-international-conference-on-swarm-intelligence-as-a-volunteer-held-in-konstanz-germany-so-inspiring-to-see-research-where-robotics-and-biology-work-together",
-          title: 'I had the chance to attend ANTS 2024 - The Fourteenth International Conference...',
+          section: "News",},{id: "news-attending-ants-2024-the-fourteenth-international-conference-on-swarm-intelligence-as-a-volunteer-held-in-konstanz-germany-so-inspiring-to-see-research-where-robotics-and-biology-work-together",
+          title: 'Attending ANTS 2024 - The Fourteenth International Conference on Swarm Intelligence as a...',
+          description: "",
+          section: "News",},{id: "news-attending-the-eleventh-international-conference-on-guided-self-organization-gso-2025",
+          title: 'Attending the Eleventh International Conference on Guided Self-Organization (GSO-2025).',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -444,18 +447,18 @@ ninja.data = [{
           window.open("https://bsky.app/profile/paololeopardi.bsky.social", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/paoloelle", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/paolo-leopardi-59941921b", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/paoloelle", "_blank");
         },
       },{
       id: 'light-theme',
