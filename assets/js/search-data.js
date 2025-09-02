@@ -390,6 +390,9 @@ ninja.data = [{
           section: "News",},{id: "news-attending-the-eleventh-international-conference-on-guided-self-organization-gso-2025",
           title: 'Attending the Eleventh International Conference on Guided Self-Organization (GSO-2025).',
           description: "",
+          section: "News",},{id: "news-raj-ammu-joins-our-group-through-the-daad-rise-germany-program-from-the-university-of-sheffield-his-work-will-focus-on-setting-up-and-running-all-experimental-setups-on-real-turtlebot-4-robots-ensuring-a-smooth-transition-from-simulation-to-reality",
+          title: 'Raj Ammu joins our group through the DAAD Rise Germany program from the...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -462,6 +465,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/paoloelle", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0005-7064-9344", "_blank");
         },
       },{
       id: 'light-theme',
