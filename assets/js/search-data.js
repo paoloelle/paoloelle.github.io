@@ -390,7 +390,7 @@ ninja.data = [{
           section: "News",},{id: "news-attending-the-eleventh-international-conference-on-guided-self-organization-gso-2025",
           title: 'Attending the Eleventh International Conference on Guided Self-Organization (GSO-2025).',
           description: "",
-          section: "News",},{id: "news-raj-ammu-joins-our-group-through-the-daad-rise-germany-program-from-the-university-of-sheffield-his-work-will-focus-on-setting-up-and-running-all-experimental-setups-on-real-turtlebot-4-robots-ensuring-a-smooth-transition-from-simulation-to-reality",
+          section: "News",},{id: "news-raj-ammu-joins-our-group-through-the-daad-rise-germany-program-from-the-university-of-sheffield-his-work-will-focus-on-setting-up-and-running-the-experimental-setups-on-real-turtlebot-4-robots-ensuring-a-smooth-transition-from-simulation-to-reality",
           title: 'Raj Ammu joins our group through the DAAD Rise Germany program from the...',
           description: "",
           section: "News",},{id: "projects-project-1",
