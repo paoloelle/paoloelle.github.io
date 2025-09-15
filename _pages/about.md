@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.exc.uni-konstanz.de/collective-behaviour/'>Center for the Advanced Study of Collective Behaviour & <a href='https://www.uni-konstanz.de'>University of Konstanz</a>
+subtitle: <a href='https://www.exc.uni-konstanz.de/collective-behaviour/'>Center for the Advanced Study of Collective Behaviour</a> & <a href='https://www.uni-konstanz.de'>University of Konstanz</a>
 
 profile:
   align: right
