@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I'm a PhD Student in the [Cyber-physical Systems group](https://www.cps.uni-konstanz.de) at the [University of Konstanz](https://www.uni-konstanz.de), Germany, led by [Prof. Heiko Hamann](https://heikohamann.de), and member of the [Center for the Advanced Study of Collective Behaviour](https://www.exc.uni-konstanz.de/collective-behaviour/).  
-My research focuses on evolutionary swarm robotics and the study of how coordination emerges in the partitioning and allocation of tasks in robot swarms.
+My research focuses on evolutionary swarm robotics, investigating how task partitioning and task allocation emerge in robot swarms.
 
 I hold a Master's Degree in Computer and Robotics Engineering (curriculum Robotics Engineering) from [Università degli Studi di Perugia](https://www.unipg.it), Italy.
 
