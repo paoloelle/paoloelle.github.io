@@ -453,11 +453,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/paolo-leopardi-59941921b", "_blank");
         },
       },{
-        id: 'social-bluesky',
-        title: 'Bluesky',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://bsky.app/profile/paololeopardi.bsky.social", "_blank");
+          window.open("https://orcid.org/0009-0005-7064-9344", "_blank");
         },
       },{
         id: 'social-github',
@@ -465,13 +465,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/paoloelle", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0009-0005-7064-9344", "_blank");
         },
       },{
       id: 'light-theme',
