@@ -9,7 +9,7 @@ profile:
   image: profile_picture.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building Z, Office 807</p>
+    <p>Building Z, Office 817</p>
     <p>University of Konstanz</p>
     <p>Universitätsstraße 10</p>
     <p>78464 Konstanz, Germany</p>
