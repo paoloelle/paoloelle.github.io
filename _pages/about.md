@@ -6,8 +6,8 @@ subtitle: <a href='https://www.exc.uni-konstanz.de/collective-behaviour/'>Center
 
 profile:
   align: right
-  image: profile_picture.jpeg
-  image_circular: false # crops the image to make it circular
+  image: personal-picture.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Building Z, Office 817</p>
     <p>University of Konstanz</p>
