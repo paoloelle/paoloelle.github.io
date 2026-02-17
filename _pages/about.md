@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.exc.uni-konstanz.de/collective-behaviour/'>Center for the Advanced Study of Collective Behaviour</a> & <a href='https://www.uni-konstanz.de'>University of Konstanz</a>
+subtitle: <a href='https://www.exc.uni-konstanz.de/collective-behaviour/'>Centre for the Advanced Study of Collective Behaviour</a> & <a href='https://www.uni-konstanz.de'>University of Konstanz</a>
 
 profile:
   align: right
   image: personal-picture.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Building Z, Office 817</p>
     <p>University of Konstanz</p>
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a PhD Student in the [Cyber-physical Systems group](https://www.cps.uni-konstanz.de) at the [University of Konstanz](https://www.uni-konstanz.de), Germany, led by [Prof. Heiko Hamann](https://heikohamann.de), and member of the [Center for the Advanced Study of Collective Behaviour](https://www.exc.uni-konstanz.de/collective-behaviour/).  
+I'm a PhD Student in the [Cyber-physical Systems group](https://www.cps.uni-konstanz.de) at the [University of Konstanz](https://www.uni-konstanz.de), Germany, led by [Prof. Heiko Hamann](https://heikohamann.de), and member of the [Centre for the Advanced Study of Collective Behaviour](https://www.exc.uni-konstanz.de/collective-behaviour/).  
 My research focuses on evolutionary swarm robotics, investigating how task partitioning and task allocation emerge in robot swarms.
 
 I hold a Master's Degree in Computer and Robotics Engineering (curriculum Robotics Engineering) from [Università degli Studi di Perugia](https://www.unipg.it), Italy.
