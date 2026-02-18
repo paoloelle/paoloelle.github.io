@@ -7,11 +7,11 @@ nav: false
 
 ## Legal Notice (§ 5 TMG)
 
-**Paolo Leopardi**
-Building Z, Office 817
-University of Konstanz
-Universitätsstraße 10
-78464 Konstanz
+**Paolo Leopardi**<br>
+Building Z, Office 817<br>
+University of Konstanz<br>
+Universitätsstraße 10<br>
+78464 Konstanz<br>
 Germany
 
 ## Contact
