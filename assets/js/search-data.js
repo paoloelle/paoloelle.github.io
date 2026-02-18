@@ -375,8 +375,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-starting-my-phd-at-the-university-of-konstanz-and-center-for-the-advanced-study-of-collective-behaviour-my-research-focuses-on-division-of-labor-and-task-allocation-in-robot-swarms",
-          title: 'Starting my PhD at the University of Konstanz and Center for the Advanced...',
+    },{id: "news-starting-my-phd-at-the-university-of-konstanz-and-centre-for-the-advanced-study-of-collective-behaviour-my-research-focuses-on-division-of-labor-and-task-allocation-in-robot-swarms",
+          title: 'Starting my PhD at the University of Konstanz and Centre for the Advanced...',
           description: "",
           section: "News",},{id: "news-attending-the-2024-ieee-ras-summer-school-on-multi-robot-systems-in-the-beautiful-city-of-prague-i-had-the-opportunity-to-connect-with-many-colleagues-doing-research-in-multi-robot-systems",
           title: 'Attending the 2024 IEEE RAS Summer School on Multi-Robot Systems in the beautiful...',
