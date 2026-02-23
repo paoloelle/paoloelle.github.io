@@ -449,11 +449,11 @@ ninja.data = [{
           window.open("mailto:%70%61%6F%6C%6F-%6C%65%6F%70%61%72%64%69@%75%6E%69-%6B%6F%6E%73%74%61%6E%7A.%64%65", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/paolo-leopardi-59941921b", "_blank");
+          window.open("https://scholar.google.com/citations?user=NfsY9yUAAAAJ", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -461,6 +461,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0009-0005-7064-9344", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/paolo-leopardi-59941921b", "_blank");
         },
       },{
         id: 'social-github',
