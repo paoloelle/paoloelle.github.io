@@ -3,8 +3,9 @@
 # the socials will be displayed in the order they are defined here
 
 email: paolo-leopardi@uni-konstanz.de # your email address
-linkedin_username: paolo-leopardi-59941921b # your LinkedIn user name
+scholar_userid: NfsY9yUAAAAJ # your Google Scholar ID
 orcid_id: 0009-0005-7064-9344 # your ORCID iD
+linkedin_username: paolo-leopardi-59941921b # your LinkedIn user name
 github_username: paoloelle # your GitHub user name
 # bluesky_url: https://bsky.app/profile/paololeopardi.bsky.social # your bluesky URL
 # acm_id: # your dl.acm.org/profile/id
@@ -30,7 +31,6 @@ github_username: paoloelle # your GitHub user name
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: false # set to true to show the RSS icon
-# scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
